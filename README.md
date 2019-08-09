@@ -247,6 +247,88 @@
 | MSI H310M PRO-VH   | [link](http://ihackline.com) |
 | MSI H310M PRO-VDH   | [link](http://ihackline.com) |
 
+#### SkyLake & Kabylake
+
+| Model Name              | Tutorial                                                     |
+| ----------------------- | ------------------------------------------------------------ |
+| ASRock Fatal1ty H270 Performance   | [link](http://ihackline.com) |
+| ASRock Fatal1ty H270M Performance   | [link](http://ihackline.com) |
+| ASRock H270 Pro4   | [link](http://ihackline.com) |
+| ASRock H270M Pro4   | [link](http://ihackline.com) |
+| ASRock H270M-ITX/ac   | [link](http://ihackline.com) |
+| ASRock Fatal1ty H170 Performance   | [link](http://ihackline.com) |
+| ASRock Fatal1ty H170 Performance/D3   | [link](http://ihackline.com) |
+| ASRock Fatal1ty H170 Performance/Hyper   | [link](http://ihackline.com) |
+| ASRock H170 Combo   | [link](http://ihackline.com) |
+| ASRock H170 Pro4   | [link](http://ihackline.com) |
+| ASRock H170 Pro4/D3   | [link](http://ihackline.com) |
+| ASRock H170 Pro4S   | [link](http://ihackline.com) |
+| ASRock H170A-X1   | [link](http://ihackline.com) |
+| ASRock H170A-X1/3.1   | [link](http://ihackline.com) |
+| ASRock H170M Pro4   | [link](http://ihackline.com) |
+| ASRock H170M Pro4S   | [link](http://ihackline.com) |
+| ASRock H170M-ITX/ac   | [link](http://ihackline.com) |
+| ASRock H170M-ITX/DL   | [link](http://ihackline.com) |
+| ASRock H110 Pro BTC+   | [link](http://ihackline.com) |
+| ASRock H110M Combo-G   | [link](http://ihackline.com) |
+| ASRock H110M-DGS   | [link](http://ihackline.com) |
+| ASRock H110M-DGS/D3   | [link](http://ihackline.com) |
+| ASRock H110M-DS/Hyper   | [link](http://ihackline.com) |
+| ASRock H110M-DVP   | [link](http://ihackline.com) |
+| ASRock H110M-DVS   | [link](http://ihackline.com) |
+| ASRock H110M-DVS/D3   | [link](http://ihackline.com) |
+| ASRock H110M-G/M.2   | [link](http://ihackline.com) |
+| ASRock H110M-GL/D3   | [link](http://ihackline.com) |
+| ASRock H110M-HDS   | [link](http://ihackline.com) |
+| ASRock H110M-HDV   | [link](http://ihackline.com) |
+| ASRock H110M-HDV/D3   | [link](http://ihackline.com) |
+| ASRock H110M-HDVP   | [link](http://ihackline.com) |
+| ASRock H110M-HDVP2   | [link](http://ihackline.com) |
+| ASRock H110M-I   | [link](http://ihackline.com) |
+| ASRock H110M-ITX   | [link](http://ihackline.com) |
+| ASRock H110M-PIO   | [link](http://ihackline.com) |
+| ASRock H110TM-ITX   | [link](http://ihackline.com) |
+| ASRock Fatal1ty Z170 Gaming K4   | [link](http://ihackline.com) |
+| ASRock Fatal1ty Z170 Gaming K6   | [link](http://ihackline.com) |
+| ASRock Fatal1ty Z170 Professional Gaming i7   | [link](http://ihackline.com) |
+| ASRock Z170 Extreme3   | [link](http://ihackline.com) |
+| ASRock Z170 Extreme4   | [link](http://ihackline.com) |
+| ASRock Z170 Extreme6   | [link](http://ihackline.com) |
+| ASRock Z170 OC Formula   | [link](http://ihackline.com) |
+| ASRock Z170 Pro4   | [link](http://ihackline.com) |
+| ASRock Z170A-X1   | [link](http://ihackline.com) |
+| ASRock Z170M Extreme4   | [link](http://ihackline.com) |
+| ASRock Z170M OC Formula   | [link](http://ihackline.com) |
+| ASRock Z170M Pro4   | [link](http://ihackline.com) |
+| ASRock Fatal1ty Z270 Gaming K4   | [link](http://ihackline.com) |
+| ASRock Fatal1ty Z270 Gaming K6   | [link](http://ihackline.com) |
+| ASRock Fatal1ty Z270 Professional Gaming i7   | [link](http://ihackline.com) |
+| ASRock Z270 Extreme4   | [link](http://ihackline.com) |
+| ASRock Z270 Killer SLI   | [link](http://ihackline.com) |
+| ASRock Z270 Pro4   | [link](http://ihackline.com) |
+| ASRock Z270 SuperCarrier   | [link](http://ihackline.com) |
+| ASRock Z270 Taichi   | [link](http://ihackline.com) |
+| ASRock Z270M Extreme4   | [link](http://ihackline.com) |
+| ASRock Z270M Pro4   | [link](http://ihackline.com) |
+| ASRock B150 Combo   | [link](http://ihackline.com) |
+| ASRock B150 Pro4/3.1   | [link](http://ihackline.com) |
+| ASRock B150 Pro4/D3   | [link](http://ihackline.com) |
+| ASRock B150A-X1   | [link](http://ihackline.com) |
+| ASRock B150M Combo-G   | [link](http://ihackline.com) |
+| ASRock B150M Pro4   | [link](http://ihackline.com) |
+| ASRock B150M Pro4S   | [link](http://ihackline.com) |
+| ASRock B150M-DVS R2.0   | [link](http://ihackline.com) |
+| ASRock B150M Pro4V   | [link](http://ihackline.com) |
+| ASRock B150M-HDS   | [link](http://ihackline.com) |
+| ASRock B150M-HDV   | [link](http://ihackline.com) |
+| ASRock B150M-ITX   | [link](http://ihackline.com) |
+| ASRock B150M-PIO   | [link](http://ihackline.com) |
+| ASRock Fatal1ty B150 Gaming K4   | [link](http://ihackline.com) |
+| ASRock B250 Pro4   | [link](http://ihackline.com) |
+| ASRock B250M Pro4   | [link](http://ihackline.com) |
+| ASRock B250M-HDV   | [link](http://ihackline.com) |
+| ASRock Fatal1ty B250 Gaming K4   | [link](http://ihackline.com) |
+| ASRock Fatal1ty B250M Performance   | [link](http://ihackline.com) |
 
 
 
