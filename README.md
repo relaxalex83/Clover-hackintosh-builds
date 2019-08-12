@@ -23,18 +23,18 @@
 | ASRock Z390M Pro4   | [link](http://ihackline.com) |
 | ASRock Z390M-ITX/ac   | [link](http://ihackline.com) |
 | ASRock Fatal1ty Z370 Gaming K6   | [link](http://ihackline.com) |
-| ASRock Fatal1ty Z370 Gaming-ITX/ac   | [link](http://ihackline.com) |
+| ASRock Fatal1ty Z370 Gaming-ITX/ac   | [link](http://ihackline.com/2019/05/21/asrock-z370-gaming-itx-ac-i7-8700-gtx-1060-hackintosh-build-guide/) |
 | ASRock Fatal1ty Z370 Professional Gaming i7   | [link](http://ihackline.com) |
 | ASRock Z370 Extreme4   | [link](http://ihackline.com) |
 | ASRock Z370 Killer SLI  | [link](http://ihackline.com) |
 | ASRock Z370 Killer SLI/ac   | [link](http://ihackline.com) |
-| ASRock Z370 Pro4   | [link](http://ihackline.com) |
+| ASRock Z370 Pro4   | [link](http://ihackline.com/2019/05/21/asrock-z370-pro4-i7-8700-intel-uhd-630-hackintosh-build-guide/) |
 | ASRock Z370 Taichi   | [link](http://ihackline.com) |
 | ASRock Z370M Pro4  | [link](http://ihackline.com) |
 | ASRock Z370M-ITX/ac   | [link](http://ihackline.com) |
 | ASRock B360 Pro4  | [link](http://ihackline.com) |
-| ASRock B360M Pro4   | [link](http://ihackline.com) |
-| ASRock B360M-HDV   | [link](http://ihackline.com) |
+| ASRock B360M Pro4   | [link](http://ihackline.com/2019/05/21/asrock-b360m-pro4-i5-8500-gt-730-hackintosh-build-guide/) |
+| ASRock B360M-HDV   | [link](http://ihackline.com/2019/05/21/asrock-b360m-hdv-i5-8400-rx-560-hackintosh-build-guide/) |
 | ASRock B360M-ITX/ac   | [link](http://ihackline.com) |
 | ASRock Fatal1ty B360 Gaming K4   | [link](http://ihackline.com) |
 | ASRock Fatal1ty B360M Performance   | [link](http://ihackline.com) |
@@ -55,8 +55,8 @@
 | ASRock H310M-HDVP   | [link](http://ihackline.com) |
 | ASRock H310M-ITX/ac   | [link](http://ihackline.com) |
 | ASRock H310M-STX   | [link](http://ihackline.com) |
-| Asus Prime Z390-A   | [link](http://ihackline.com) |
-| Asus Prime Z390M-PLUS   | [link](http://ihackline.com) |
+| Asus Prime Z390-A   | [link](http://ihackline.com/2019/05/21/asus-prime-z390-a/) |
+| Asus Prime Z390M-PLUS   | [link](http://ihackline.com/2019/05/21/asus-prime-z390m-plus/) |
 | Asus ROG STRIX Z390-E GAMING   | [link](http://ihackline.com) |
 | Asus ROG STRIX Z390-I GAMING  | [link](http://ihackline.com) |
 | Asus ROG STRIX Z390-F GAMING   | [link](http://ihackline.com) |
@@ -72,21 +72,21 @@
 | Asus ROG MAXIMUS XI GENE   | [link](http://ihackline.com) |
 | Asus ROG MAXIMUS XI FORMULA   | [link](http://ihackline.com) |
 | Asus ROG MAXIMUS XI APEX   | [link](http://ihackline.com) |
-| Asus Prime Z370-A   | [link](http://ihackline.com) |
-| Asus Prime Z370-P   | [link](http://ihackline.com) |
+| Asus Prime Z370-A   | [link](http://ihackline.com/2019/05/21/asus-prime-z370-a/) |
+| Asus Prime Z370-P   | [link](http://ihackline.com/2019/05/21/asus-prime-z370-p/) |
 | Asus ROG Maximus X Hero   | [link](http://ihackline.com) |
-| Asus Strix Z370-E Gaming   | [link](http://ihackline.com) |
-| Asus Strix Z370-H Gaming   | [link](http://ihackline.com) |
-| Asus Strix Z370-I Gaming   | [link](http://ihackline.com) |
+| Asus Strix Z370-E Gaming   | [link](http://ihackline.com/2019/05/21/asus-rog-strix-z370-e-gaming/) |
+| Asus Strix Z370-H Gaming   | [link](http://ihackline.com/2019/05/21/asus-rog-strix-z370-h-gaming/) |
+| Asus Strix Z370-I Gaming   | [link](http://ihackline.com/2019/05/21/asus-rog-strix-z370-i-gaming/) |
 | Asus ROG STRIX Z370-F GAMING   | [link](http://ihackline.com) |
-| Asus ROG STRIX Z370-G GAMING   | [link](http://ihackline.com) |
-| Asus PRIME Z370-A II   | [link](http://ihackline.com) |
+| Asus ROG STRIX Z370-G GAMING   | [link](http://ihackline.com/2019/05/21/asus-rog-strix-z370-g-gaming/) |
+| Asus PRIME Z370-A II   | [link](http://ihackline.com/2019/05/21/asus-prime-z370-a-ii/) |
 | Asus PRIME Z370-P II   | [link](http://ihackline.com) |
-| Asus TUF Z370-PRO GAMING   | [link](http://ihackline.com) |
-| Asus TUF Z370-PLUS GAMING   | [link](http://ihackline.com) |
+| Asus TUF Z370-PRO GAMING   | [link](http://ihackline.com/2019/05/21/asus-tuf-z370-pro-gaming/) |
+| Asus TUF Z370-PLUS GAMING   | [link](http://ihackline.com/2019/05/21/asus-tuf-z370-plus-gaming/) |
 | Asus ROG MAXIMUS X APEX   | [link](http://ihackline.com) |
 | Asus ROG MAXIMUS X CODE   | [link](http://ihackline.com) |
-| Asus PRIME Z370M-PLUS II   | [link](http://ihackline.com) |
+| Asus PRIME Z370M-PLUS II   | [link](http://ihackline.com/2019/05/21/asus-prime-z370m-plus-ii/) |
 | Asus ROG MAXIMUS X FORMULA   | [link](http://ihackline.com) |
 | Asus PRIME H370-A   | [link](http://ihackline.com) |
 | Asus PRIME H370-PLUS   | [link](http://ihackline.com) |
@@ -112,10 +112,10 @@
 | Asus PRIME H310M-A   | [link](http://ihackline.com) |
 | Asus TUF H310M-PLUS GAMING   | [link](http://ihackline.com) |
 | Asus PRIME H310M-E   | [link](http://ihackline.com) |
-| Gigabyte Z390 AORUS MASTER   | [link](http://ihackline.com) |
+| Gigabyte Z390 AORUS MASTER   | [link](http://ihackline.com/2019/05/29/ga-z390-aorus-master-hackintosh-build-guide/) |
 | Gigabyte Z390 UD   | [link](http://ihackline.com) |
-| Gigabyte Z390 AORUS ELITE   | [link](http://ihackline.com) |
-| Gigabyte Z390 GAMING SLI   | [link](http://ihackline.com) |
+| Gigabyte Z390 AORUS ELITE   | [link](http://ihackline.com/2019/05/29/ga-z390-aorus-elite-cf-hackintosh-build-guide/) |
+| Gigabyte Z390 GAMING SLI   | [link](http://ihackline.com/2019/05/29/ga-z390-gaming-sli-hackintosh-build-guide/) |
 | Gigabyte Z390 GAMING X  |  [link](http://ihackline.com) |
 | Gigabyte Z390 AORUS PRO   | [link](http://ihackline.com) |
 | Gigabyte Z390 M GAMING   | [link](http://ihackline.com) |
@@ -131,42 +131,39 @@
 | Gigabyte Z370 AORUS GAMING WIFI   | [link](http://ihackline.com) |
 | Gigabyte Z370 AORUS Gaming 5   | [link](http://ihackline.com) |
 | Gigabyte Z370 AORUS Gaming K3   | [link](http://ihackline.com) |
-| Gigabyte Z370XP SLI   | [link](http://ihackline.com) |
+| Gigabyte Z370XP SLI   | [link](http://ihackline.com/2019/05/29/ga-z370xp-sli-hackintosh-build-guide/) |
 | Gigabyte Z370 AORUS Gaming 3   | [link](http://ihackline.com) |
 | Gigabyte Z370 AORUS Ultra Gaming   | [link](http://ihackline.com) |
 | Gigabyte Z370 AORUS Gaming 7   | [link](http://ihackline.com) |
-| Gigabyte Z370 HD3   | [link](http://ihackline.com) |
-| Gigabyte Z370 HD3P   | [link](http://ihackline.com) |
-| Gigabyte Z370M D3H   | [link](http://ihackline.com) |
-| Gigabyte Z370N WIFI   | [link](http://ihackline.com) |
-| Gigabyte Z370P D3   | [link](http://ihackline.com) |
+| Gigabyte Z370 HD3   | [link](http://ihackline.com/2019/05/29/ga-z370-hd3-hackintosh-build-guide/) |
+| Gigabyte Z370 HD3P   | [link](http://ihackline.com/2019/05/29/ga-z370-hd3p-hackintosh-build-guide/) |
+| Gigabyte Z370M D3H   | [link](http://ihackline.com/2019/05/29/ga-z370m-d3h-hackintosh-build-guide/) |
+| Gigabyte Z370N WIFI   | [link](http://ihackline.com/2019/05/29/ga-z370n-wifi-hackintosh-build-guide/) |
+| Gigabyte Z370P D3   | [link](http://ihackline.com/2019/05/29/ga-z370p-d3-hackintosh-build-guide/) |
 | Gigabyte Z370 UD3H   | [link](http://ihackline.com) |
 | Gigabyte Z370M DS3H   | [link](http://ihackline.com) |
 | Gigabyte Z370 AORUS ULTRA GAMING 2.0   | [link](http://ihackline.com) |
-| Gigabyte Z370 AORUS ULTRA GAMING WIFI   | [link](http://ihackline.com) |
-| Gigabyte Z370 AORUS ULTRA GAMING WIFI-OP   | [link](http://ihackline.com) |
-| Gigabyte Z370 AORUS ULTRA GAMING 2.0-OP   | [link](http://ihackline.com) |
-| Gigabyte Z370 AORUS GAMING 7-OP   | [link](http://ihackline.com) |
+| Gigabyte Z370 AORUS ULTRA GAMING WIFI   | [link](http://ihackline.com/2019/05/29/ga-z370-aorus-ultra-gaming-wifi-hackintosh-build-guide/) |
 | Gigabyte Z370 HD3-OP   | [link](http://ihackline.com) |
 | Gigabyte H370M DS3H   | [link](http://ihackline.com) |
 | Gigabyte H370 HD3   | [link](http://ihackline.com) |
-| Gigabyte H370M D3H   | [link](http://ihackline.com) |
+| Gigabyte H370M D3H   | [link](http://ihackline.com/2019/05/29/ga-h370m-d3h-hackintosh-build-guide/) |
 | Gigabyte H370N WIFI   | [link](http://ihackline.com) |
 | Gigabyte H370 AORUS GAMING 3 WIFI   | [link](http://ihackline.com) |
 | Gigabyte H370 AORUS GAMING 3   | [link](http://ihackline.com) |
 | Gigabyte H370M D3H GSM   | [link](http://ihackline.com) |
 | Gigabyte B360M GAMING HD   | [link](http://ihackline.com) |
-| Gigabyte B360M H   | [link](http://ihackline.com) |
+| Gigabyte B360M H   | [link](http://ihackline.com/2019/05/29/ga-b360m-h-hackintosh-build-guide/) |
 | Gigabyte B360M AORUS GAMING 3   | [link](http://ihackline.com) |
 | Gigabyte B360N AORUS GAMING WIFI   | [link](http://ihackline.com) |
 | Gigabyte B360N WIFI   | [link](http://ihackline.com) |
 | Gigabyte B360M D3P   | [link](http://ihackline.com) |
 | Gigabyte B360 HD3P   | [link](http://ihackline.com) |
 | Gigabyte B360M D3V   | [link](http://ihackline.com) |
-| Gigabyte B360 HD3   | [link](http://ihackline.com) |
+| Gigabyte B360 HD3   | [link](http://ihackline.com/2019/05/29/ga-b360-hd3-hackintosh-build-guide/) |
 | Gigabyte B360M D2V   | [link](http://ihackline.com) |
 | Gigabyte B360M HD3   | [link](http://ihackline.com) |
-| Gigabyte B360M DS3H   | [link](http://ihackline.com) |
+| Gigabyte B360M DS3H   | [link](http://ihackline.com/2019/05/29/ga-b360m-ds3h-hackintosh-build-guide/) |
 | Gigabyte B360M D3H   | [link](http://ihackline.com) |
 | Gigabyte B360 AORUS GAMING 3 WIFI   | [link](http://ihackline.com) |
 | Gigabyte B360 AORUS GAMING 3   | [link](http://ihackline.com) |
@@ -205,7 +202,7 @@
 | MSI Z370 TOMAHAWK   | [link](http://ihackline.com) |
 | MSI Z370 GAMING PLUS   | [link](http://ihackline.com) |
 | MSI Z370 GAMING PRO CARBON   | [link](http://ihackline.com) |
-| MSI Z370-A PRO   | [link](http://ihackline.com) |
+| MSI Z370-A PRO   | [link](http://ihackline.com/2019/05/29/msi-z370-a-pro-hackintosh-build-guide/) |
 | MSI Z370 PC PRO   | [link](http://ihackline.com) |
 | MSI Z370 GAMING PRO CARBON AC   | [link](http://ihackline.com) |
 | MSI Z370M MORTAR   | [link](http://ihackline.com) |
@@ -255,7 +252,7 @@
 | ASRock Fatal1ty H270M Performance   | [link](http://ihackline.com) |
 | ASRock H270 Pro4   | [link](http://ihackline.com) |
 | ASRock H270M Pro4   | [link](http://ihackline.com) |
-| ASRock H270M-ITX/ac   | [link](http://ihackline.com) |
+| ASRock H270M-ITX/ac   | [link](http://ihackline.com/2019/05/21/asrock-h270m-itx-ac-i3-7100-intel-hd-630-hackintosh-build-guide/) |
 | ASRock Fatal1ty H170 Performance   | [link](http://ihackline.com) |
 | ASRock Fatal1ty H170 Performance/D3   | [link](http://ihackline.com) |
 | ASRock Fatal1ty H170 Performance/Hyper   | [link](http://ihackline.com) |
@@ -271,11 +268,11 @@
 | ASRock H170M-ITX/DL   | [link](http://ihackline.com) |
 | ASRock H110 Pro BTC+   | [link](http://ihackline.com) |
 | ASRock H110M Combo-G   | [link](http://ihackline.com) |
-| ASRock H110M-DGS   | [link](http://ihackline.com) |
+| ASRock H110M-DGS   | [link](http://ihackline.com/2019/05/20/asrock-h110m-dgs/) |
 | ASRock H110M-DGS/D3   | [link](http://ihackline.com) |
 | ASRock H110M-DS/Hyper   | [link](http://ihackline.com) |
 | ASRock H110M-DVP   | [link](http://ihackline.com) |
-| ASRock H110M-DVS   | [link](http://ihackline.com) |
+| ASRock H110M-DVS   | [link](http://ihackline.com/2019/05/20/asrock-h110m-dvs/) |
 | ASRock H110M-DVS/D3   | [link](http://ihackline.com) |
 | ASRock H110M-G/M.2   | [link](http://ihackline.com) |
 | ASRock H110M-GL/D3   | [link](http://ihackline.com) |
@@ -285,7 +282,7 @@
 | ASRock H110M-HDVP   | [link](http://ihackline.com) |
 | ASRock H110M-HDVP2   | [link](http://ihackline.com) |
 | ASRock H110M-I   | [link](http://ihackline.com) |
-| ASRock H110M-ITX   | [link](http://ihackline.com) |
+| ASRock H110M-ITX   | [link](http://ihackline.com/2019/05/20/asrock-h110m-itx/) |
 | ASRock H110M-PIO   | [link](http://ihackline.com) |
 | ASRock H110TM-ITX   | [link](http://ihackline.com) |
 | ASRock Fatal1ty Z170 Gaming K4   | [link](http://ihackline.com) |
@@ -295,7 +292,7 @@
 | ASRock Z170 Extreme4   | [link](http://ihackline.com) |
 | ASRock Z170 Extreme6   | [link](http://ihackline.com) |
 | ASRock Z170 OC Formula   | [link](http://ihackline.com) |
-| ASRock Z170 Pro4   | [link](http://ihackline.com) |
+| ASRock Z170 Pro4   | [link](http://ihackline.com/2019/05/20/asrock-z170-pro4/) |
 | ASRock Z170A-X1   | [link](http://ihackline.com) |
 | ASRock Z170M Extreme4   | [link](http://ihackline.com) |
 | ASRock Z170M OC Formula   | [link](http://ihackline.com) |
@@ -303,7 +300,7 @@
 | ASRock Fatal1ty Z270 Gaming K4   | [link](http://ihackline.com) |
 | ASRock Fatal1ty Z270 Gaming K6   | [link](http://ihackline.com) |
 | ASRock Fatal1ty Z270 Professional Gaming i7   | [link](http://ihackline.com) |
-| ASRock Z270 Extreme4   | [link](http://ihackline.com) |
+| ASRock Z270 Extreme4   | [link](http://ihackline.com/2019/06/23/asrock-z270-extreme4-hackintosh-build-guide/) |
 | ASRock Z270 Killer SLI   | [link](http://ihackline.com) |
 | ASRock Z270 Pro4   | [link](http://ihackline.com) |
 | ASRock Z270 SuperCarrier   | [link](http://ihackline.com) |
@@ -325,7 +322,7 @@
 | ASRock B150M-PIO   | [link](http://ihackline.com) |
 | ASRock Fatal1ty B150 Gaming K4   | [link](http://ihackline.com) |
 | ASRock B250 Pro4   | [link](http://ihackline.com) |
-| ASRock B250M Pro4   | [link](http://ihackline.com) |
+| ASRock B250M Pro4   | [link](http://ihackline.com/2019/05/21/asrock-b250m-pro4-i7-7700k-intel-hd-630-hackintosh-build-guide/) |
 | ASRock B250M-HDV   | [link](http://ihackline.com) |
 | ASRock Fatal1ty B250 Gaming K4   | [link](http://ihackline.com) |
 | ASRock Fatal1ty B250M Performance   | [link](http://ihackline.com) |
