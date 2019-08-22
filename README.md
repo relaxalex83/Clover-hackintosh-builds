@@ -7,11 +7,11 @@
 | Model Name              | Tutorial                                                     |
 | ----------------------- | ------------------------------------------------------------ |
 | ASRock Z390 Pro4   | [link](http://ihackline.com/2019/05/21/asrock-z390-pro4-i9-9900k-intel-uhd-630-hackintosh-build-guide/) |
-| ASRock Z390 Extreme4   | [link](http://ihackline.com) |
-| ASRock Z390 Phantom Gaming 4   | [link](http://ihackline.com) |
-| ASRock Z390 Phantom Gaming 4S   | [link](http://ihackline.com) |
-| ASRock Z390 Phantom Gaming 6   | [link](http://ihackline.com) |
-| ASRock Z390 Phantom Gaming 7   | [link](http://ihackline.com) |
+| ASRock Z390 Extreme4   | [link](http://ihackline.com/2019/08/21/asrock-z390-extreme4-hackintosh-build-guide/) |
+| ASRock Z390 Phantom Gaming 4   | [link](http://ihackline.com/2019/08/21/asrock-z390-phantom-gaming-4-hackintosh-build-guide/) |
+| ASRock Z390 Phantom Gaming 4S   | [link](http://ihackline.com/2019/08/21/asrock-z390-phantom-gaming-4s-hackintosh-build-guide/) |
+| ASRock Z390 Phantom Gaming 6   | [link](http://ihackline.com/2019/08/21/asrock-z390-phantom-gaming-6-hackintosh-build-guide/) |
+| ASRock Z390 Phantom Gaming 7   | [link](http://ihackline.com/2019/08/21/asrock-z390-phantom-gaming-7-hackintosh-build-guide/) |
 | ASRock Z390 Phantom Gaming 9   | [link](http://ihackline.com) |
 | ASRock Z390 Phantom Gaming SLI   | [link](http://ihackline.com) |
 | ASRock Z390 Phantom Gaming SLI/ac  | [link](http://ihackline.com) |
@@ -60,7 +60,7 @@
 | Asus ROG STRIX Z390-E GAMING   | [link](http://ihackline.com) |
 | Asus ROG STRIX Z390-I GAMING  | [link](http://ihackline.com) |
 | Asus ROG STRIX Z390-F GAMING   | [link](http://ihackline.com) |
-| Asus ROG STRIX Z390-H GAMING   | [link](http://ihackline.com) |
+| Asus ROG STRIX Z390-H GAMING   | [link](http://ihackline.com/2019/08/21/asus-rog-strix-z390-h-gaming-hackintosh-build-guide/) |
 | Asus TUF Z390-PRO GAMING   | [link](http://ihackline.com) |
 | Asus TUF Z390-PLUS GAMING   | [link](http://ihackline.com) |
 | Asus WS Z390 PRO   | [link](http://ihackline.com) |
