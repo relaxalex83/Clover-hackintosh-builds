@@ -12,16 +12,16 @@
 | ASRock Z390 Phantom Gaming 4S   | [link](http://ihackline.com/2019/08/21/asrock-z390-phantom-gaming-4s-hackintosh-build-guide/) |
 | ASRock Z390 Phantom Gaming 6   | [link](http://ihackline.com/2019/08/21/asrock-z390-phantom-gaming-6-hackintosh-build-guide/) |
 | ASRock Z390 Phantom Gaming 7   | [link](http://ihackline.com/2019/08/21/asrock-z390-phantom-gaming-7-hackintosh-build-guide/) |
-| ASRock Z390 Phantom Gaming 9   | [link](http://ihackline.com) |
-| ASRock Z390 Phantom Gaming SLI   | [link](http://ihackline.com) |
-| ASRock Z390 Phantom Gaming SLI/ac  | [link](http://ihackline.com) |
-| ASRock Z390 Phantom Gaming X  | [link](http://ihackline.com) |
-| ASRock Z390 Phantom Gaming-ITX/ac   | [link](http://ihackline.com) |
-| ASRock Z390 Steel Legend   | [link](http://ihackline.com) |
-| ASRock Z390 Taichi   | [link](http://ihackline.com) |
-| ASRock Z390 Taichi Ultimate  | [link](http://ihackline.com) |
-| ASRock Z390M Pro4   | [link](http://ihackline.com) |
-| ASRock Z390M-ITX/ac   | [link](http://ihackline.com) |
+| ASRock Z390 Phantom Gaming 9   | [link](http://ihackline.com/2019/08/22/asrock-z390-phantom-gaming-9-hackintosh-build-guide/) |
+| ASRock Z390 Phantom Gaming SLI   | [link](http://ihackline.com/2019/08/22/asrock-z390-phantom-gaming-sli-hackintosh-build-guide/) |
+| ASRock Z390 Phantom Gaming SLI/ac  | [link](http://ihackline.com/2019/08/22/asrock-z390-phantom-gaming-sli-ac/) |
+| ASRock Z390 Phantom Gaming X  | [link](http://ihackline.com/2019/08/22/asrock-z390-phantom-gaming-x-hackintosh-build-guide/) |
+| ASRock Z390 Phantom Gaming-ITX/ac   | [link](http://ihackline.com/2019/08/22/asrock-z390-phantom-gaming-itx-ac-hackintosh-build-guide/) |
+| ASRock Z390 Steel Legend   | [link](http://ihackline.com/2019/08/22/asrock-z390-steel-legend-hackintosh-build-guide/) |
+| ASRock Z390 Taichi   | [link](http://ihackline.com/2019/08/22/asrock-z390-taichi-hackintosh-build-guide/) |
+| ASRock Z390 Taichi Ultimate  | [link](http://ihackline.com/2019/08/22/asrock-z390-taichi-ultimate-hackintosh-build-guide/) |
+| ASRock Z390M Pro4   | [link](http://ihackline.com/2019/08/22/asrock-z390m-pro4-hackintosh-build-guide/) |
+| ASRock Z390M-ITX/ac   | [link](http://ihackline.com/2019/08/22/asrock-z390m-itx-ac-hackintosh-build-guide/) |
 | ASRock Fatal1ty Z370 Gaming K6   | [link](http://ihackline.com) |
 | ASRock Fatal1ty Z370 Gaming-ITX/ac   | [link](http://ihackline.com/2019/05/21/asrock-z370-gaming-itx-ac-i7-8700-gtx-1060-hackintosh-build-guide/) |
 | ASRock Fatal1ty Z370 Professional Gaming i7   | [link](http://ihackline.com) |
