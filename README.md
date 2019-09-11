@@ -22,16 +22,16 @@
 | ASRock Z390 Taichi Ultimate  | [link](http://ihackline.com/2019/08/22/asrock-z390-taichi-ultimate-hackintosh-build-guide/) |
 | ASRock Z390M Pro4   | [link](http://ihackline.com/2019/08/22/asrock-z390m-pro4-hackintosh-build-guide/) |
 | ASRock Z390M-ITX/ac   | [link](http://ihackline.com/2019/08/22/asrock-z390m-itx-ac-hackintosh-build-guide/) |
-| ASRock Fatal1ty Z370 Gaming K6   | [link](http://ihackline.com) |
-| ASRock Fatal1ty Z370 Gaming-ITX/ac   | [link](http://ihackline.com/2019/05/21/asrock-z370-gaming-itx-ac-i7-8700-gtx-1060-hackintosh-build-guide/) |
-| ASRock Fatal1ty Z370 Professional Gaming i7   | [link](http://ihackline.com) |
-| ASRock Z370 Extreme4   | [link](http://ihackline.com) |
-| ASRock Z370 Killer SLI  | [link](http://ihackline.com) |
-| ASRock Z370 Killer SLI/ac   | [link](http://ihackline.com) |
+| ASRock Fatal1ty Z370 Gaming K6   | [link](http://ihackline.com/2019/08/30/asrock-fatal1ty-z370-gaming-k6-hackintosh-build-guide/) |
+| ASRock Fatal1ty Z370 Gaming-ITX/ac   | [link](http://ihackline.com/2019/08/30/asrock-fatal1ty-z370-gaming-itx-ac-hackintosh-build-guide/) |
+| ASRock Fatal1ty Z370 Professional Gaming i7   | [link](http://ihackline.com/2019/08/30/asrock-fatal1ty-z370-professional-gaming-i7/) |
+| ASRock Z370 Extreme4   | [link](http://ihackline.com/2019/08/30/asrock-z370-extreme4-hackintosh-build-guide/) |
+| ASRock Z370 Killer SLI  | [link](http://ihackline.com/2019/08/30/asrock-z370-killer-sli/) |
+| ASRock Z370 Killer SLI/ac   | [link](http://ihackline.com/2019/08/30/asrock-z370-killer-sli-ac/) |
 | ASRock Z370 Pro4   | [link](http://ihackline.com/2019/05/21/asrock-z370-pro4-i7-8700-intel-uhd-630-hackintosh-build-guide/) |
-| ASRock Z370 Taichi   | [link](http://ihackline.com) |
-| ASRock Z370M Pro4  | [link](http://ihackline.com) |
-| ASRock Z370M-ITX/ac   | [link](http://ihackline.com) |
+| ASRock Z370 Taichi   | [link](http://ihackline.com/2019/08/30/asrock-z370-taichi-hackintosh-build-guide/) |
+| ASRock Z370M Pro4  | [link](http://ihackline.com/2019/08/30/asrock-z370m-pro4-hackintosh-build-guide/) |
+| ASRock Z370M-ITX/ac   | [link](http://ihackline.com/2019/08/30/asrock-z370m-itx-ac-hackintosh-build-guide/) |
 | ASRock B360 Pro4  | [link](http://ihackline.com) |
 | ASRock B360M Pro4   | [link](http://ihackline.com/2019/05/21/asrock-b360m-pro4-i5-8500-gt-730-hackintosh-build-guide/) |
 | ASRock B360M-HDV   | [link](http://ihackline.com/2019/05/21/asrock-b360m-hdv-i5-8400-rx-560-hackintosh-build-guide/) |
