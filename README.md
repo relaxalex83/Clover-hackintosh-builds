@@ -326,9 +326,3 @@
 | ASRock B250M-HDV   | [link](http://ihackline.com) |
 | ASRock Fatal1ty B250 Gaming K4   | [link](http://ihackline.com) |
 | ASRock Fatal1ty B250M Performance   | [link](http://ihackline.com) |
-
-
-
-## About rewards
-
-If you approve my work, please support us for subsequent updates.
