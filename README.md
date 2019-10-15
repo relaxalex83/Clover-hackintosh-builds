@@ -32,16 +32,16 @@
 | ASRock Z370 Taichi   | [link](http://ihackline.com/2019/08/30/asrock-z370-taichi-hackintosh-build-guide/) |
 | ASRock Z370M Pro4  | [link](http://ihackline.com/2019/08/30/asrock-z370m-pro4-hackintosh-build-guide/) |
 | ASRock Z370M-ITX/ac   | [link](http://ihackline.com/2019/08/30/asrock-z370m-itx-ac-hackintosh-build-guide/) |
-| ASRock B360 Pro4  | [link](http://ihackline.com) |
+| ASRock B360 Pro4  | [link](http://ihackline.com/2019/10/14/asrock-b360-pro4-hackintosh-build-guide/) |
 | ASRock B360M Pro4   | [link](http://ihackline.com/2019/05/21/asrock-b360m-pro4-i5-8500-gt-730-hackintosh-build-guide/) |
 | ASRock B360M-HDV   | [link](http://ihackline.com/2019/05/21/asrock-b360m-hdv-i5-8400-rx-560-hackintosh-build-guide/) |
-| ASRock B360M-ITX/ac   | [link](http://ihackline.com) |
-| ASRock Fatal1ty B360 Gaming K4   | [link](http://ihackline.com) |
-| ASRock Fatal1ty B360M Performance   | [link](http://ihackline.com) |
-| ASRock Fatal1ty H370 Performance   | [link](http://ihackline.com) |
-| ASRock H370 Pro4   | [link](http://ihackline.com) |
-| ASRock H370M Pro4   | [link](http://ihackline.com) |
-| ASRock H370M-ITX/ac   | [link](http://ihackline.com) |
+| ASRock B360M-ITX/ac   | [link](http://ihackline.com/2019/10/14/asrock-b360m-itx-ac-hackintosh-build-guide/) |
+| ASRock Fatal1ty B360 Gaming K4   | [link](http://ihackline.com/2019/10/14/asrock-fatal1ty-b360-gaming-k4-hackintosh-build-guide/) |
+| ASRock Fatal1ty B360M Performance   | [link](http://ihackline.com/2019/10/14/asrock-fatal1ty-b360m-performance-hackintosh-build-guide/) |
+| ASRock Fatal1ty H370 Performance   | [link](http://ihackline.com/2019/10/14/asrock-fatal1ty-h370-performance-hackintosh-build-guide/) |
+| ASRock H370 Pro4   | [link](http://ihackline.com/2019/10/14/asrock-h370-pro4-hackintosh-build-guide/) |
+| ASRock H370M Pro4   | [link](http://ihackline.com/2019/10/14/asrock-h370m-pro4-hackintosh-build-guide/) |
+| ASRock H370M-ITX/ac   | [link](http://ihackline.com/2019/10/14/asrock-h370m-itx-ac-hackintosh-build-guide/) |
 | ASRock H310CM-DVS   | [link](http://ihackline.com) |
 | ASRock H310CM-HDV   | [link](http://ihackline.com) |
 | ASRock H310CM-HDV/M.2   | [link](http://ihackline.com) |
