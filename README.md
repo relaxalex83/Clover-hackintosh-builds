@@ -42,19 +42,15 @@
 | ASRock H370 Pro4   | [link](http://ihackline.com/2019/10/14/asrock-h370-pro4-hackintosh-build-guide/) |
 | ASRock H370M Pro4   | [link](http://ihackline.com/2019/10/14/asrock-h370m-pro4-hackintosh-build-guide/) |
 | ASRock H370M-ITX/ac   | [link](http://ihackline.com/2019/10/14/asrock-h370m-itx-ac-hackintosh-build-guide/) |
-| ASRock H310CM-DVS   | [link](http://ihackline.com) |
-| ASRock H310CM-HDV   | [link](http://ihackline.com) |
-| ASRock H310CM-HDV/M.2   | [link](http://ihackline.com) |
-| ASRock H310CM-HDVP   | [link](http://ihackline.com) |
-| ASRock H310CM-HDVP2   | [link](http://ihackline.com) |
-| ASRock H310CM-ITX/ac   | [link](http://ihackline.com) |
-| ASRock H310M-DGS   | [link](http://ihackline.com) |
-| ASRock H310M-G/M.2   | [link](http://ihackline.com) |
-| ASRock H310M-HDV   | [link](http://ihackline.com) |
-| ASRock H310M-HDV/M.2  | [link](http://ihackline.com) |
-| ASRock H310M-HDVP   | [link](http://ihackline.com) |
-| ASRock H310M-ITX/ac   | [link](http://ihackline.com) |
-| ASRock H310M-STX   | [link](http://ihackline.com) |
+| ASRock H310CM-DVS   | [link](https://ihackline.com/2019/11/27/asrock-h310cm-dvs-hackintosh-build-guide/) |
+| ASRock H310CM-HDV   | [link](https://ihackline.com/2019/11/28/asrock-h310cm-hdv-hackintosh-build-guide/) |
+| ASRock H310CM-HDVP   | [link](https://ihackline.com/2019/11/28/asrock-h310cm-hdvp-hackintosh-build-guide/) |
+| ASRock H310CM-ITX/ac   | [link](https://ihackline.com/2019/11/28/asrock-h310cm-itx-ac-hackintosh-build-guide/) |
+| ASRock H310M-DGS   | [link](https://ihackline.com/2019/11/28/asrock-h310m-dgs-hackintosh-build-guide/) |
+| ASRock H310M-HDV   | [link](https://ihackline.com/2019/11/28/asrock-h310m-hdv-hackintosh-build-guide/) |
+| ASRock H310M-HDVP   | [link](https://ihackline.com/2019/11/28/asrock-h310m-hdvp-hackintosh-build-guide/) |
+| ASRock H310M-ITX/ac   | [link](https://ihackline.com/2019/11/28/asrock-h310m-itx-ac-hackintosh-build-guide/) |
+| ASRock H310M-STX   | [link](https://ihackline.com/2019/11/28/asrock-h310m-stx-hackintosh-build-guide/) |
 | Asus Prime Z390-A   | [link](http://ihackline.com/2019/05/21/asus-prime-z390-a/) |
 | Asus Prime Z390M-PLUS   | [link](http://ihackline.com/2019/05/21/asus-prime-z390m-plus/) |
 | Asus ROG STRIX Z390-E GAMING   | [link](http://ihackline.com) |
