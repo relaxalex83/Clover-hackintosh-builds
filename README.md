@@ -53,24 +53,24 @@
 | ASRock H310M-STX   | [link](https://ihackline.com/2019/11/28/asrock-h310m-stx-hackintosh-build-guide/) |
 | Asus Prime Z390-A   | [link](http://ihackline.com/2019/05/21/asus-prime-z390-a/) |
 | Asus Prime Z390M-PLUS   | [link](http://ihackline.com/2019/05/21/asus-prime-z390m-plus/) |
-| Asus ROG STRIX Z390-E GAMING   | [link](http://ihackline.com) |
-| Asus ROG STRIX Z390-I GAMING  | [link](http://ihackline.com) |
-| Asus ROG STRIX Z390-F GAMING   | [link](http://ihackline.com) |
+| Asus ROG STRIX Z390-E GAMING   | [link](https://ihackline.com/2019/10/15/asus-rog-strix-z390-e-gaming/) |
+| Asus ROG STRIX Z390-I GAMING  | [link](https://ihackline.com/2019/10/15/asus-rog-strix-z390-i-gaming-hackintosh-build-guide/) |
+| Asus ROG STRIX Z390-F GAMING   | [link](https://ihackline.com/2019/10/15/asus-prime-z390-f-gaming-hackintosh-build-guide/) |
 | Asus ROG STRIX Z390-H GAMING   | [link](http://ihackline.com/2019/08/21/asus-rog-strix-z390-h-gaming-hackintosh-build-guide/) |
-| Asus TUF Z390-PRO GAMING   | [link](http://ihackline.com) |
-| Asus TUF Z390-PLUS GAMING   | [link](http://ihackline.com) |
-| Asus WS Z390 PRO   | [link](http://ihackline.com) |
-| Asus PRIME Z390-P   | [link](http://ihackline.com) |
-| Asus ROG MAXIMUS XI HERO   | [link](http://ihackline.com) |
-| Asus ROG MAXIMUS XI EXTREME   | [link](http://ihackline.com) |
-| Asus ROG MAXIMUS XI CODE   | [link](http://ihackline.com) |
-| Asus TUF Z390M-PRO GAMING   | [link](http://ihackline.com) |
-| Asus ROG MAXIMUS XI GENE   | [link](http://ihackline.com) |
-| Asus ROG MAXIMUS XI FORMULA   | [link](http://ihackline.com) |
-| Asus ROG MAXIMUS XI APEX   | [link](http://ihackline.com) |
+| Asus TUF Z390-PRO GAMING   | [link](https://ihackline.com/2019/10/15/asus-prime-z390-pro-hackintosh-build-guide/) |
+| Asus TUF Z390-PLUS GAMING   | [link](https://ihackline.com/2019/10/15/asus-tuf-z390-plus-gaming-hackintosh-build-guide/) |
+| Asus WS Z390 PRO   | [link](https://ihackline.com/2019/10/15/asus-ws-z390-pro-hackintosh-build-guide/) |
+| Asus PRIME Z390-P   | [link](https://ihackline.com/2019/10/15/asus-prime-z390-p-hackintosh-build-guide/) |
+| Asus ROG MAXIMUS XI HERO   | [link](https://ihackline.com/2019/10/15/asus-rog-maximus-xi-hero/) |
+| Asus ROG MAXIMUS XI EXTREME   | [link](https://ihackline.com/2019/10/15/asus-rog-maximus-xi-extreme-hackintosh-build-guide/) |
+| Asus ROG MAXIMUS XI CODE   | [link](https://ihackline.com/2019/10/15/asus-rog-maximus-xi-code-hackintosh-build-guide/) |
+| Asus TUF Z390M-PRO GAMING   | [link](https://ihackline.com/2019/10/15/asus-tuf-z390m-pro-gaming-hackintosh-build-guide/) |
+| Asus ROG MAXIMUS XI GENE   | [link](https://ihackline.com/2019/10/15/asus-rog-maximus-xi-gene-hackintosh-build-guide/) |
+| Asus ROG MAXIMUS XI FORMULA   | [link](https://ihackline.com/2019/10/15/asus-rog-maximus-xi-formula-hackintosh-build-guide/) |
+| Asus ROG MAXIMUS XI APEX   | [link](https://ihackline.com/2019/10/15/asus-rog-maximus-xi-apex-hackintosh-build-guide/) |
 | Asus Prime Z370-A   | [link](http://ihackline.com/2019/05/21/asus-prime-z370-a/) |
 | Asus Prime Z370-P   | [link](http://ihackline.com/2019/05/21/asus-prime-z370-p/) |
-| Asus ROG Maximus X Hero   | [link](http://ihackline.com) |
+| Asus ROG Maximus X Hero   | [link](https://ihackline.com/2019/05/21/asus-rog-maximus-x-hero/) |
 | Asus Strix Z370-E Gaming   | [link](http://ihackline.com/2019/05/21/asus-rog-strix-z370-e-gaming/) |
 | Asus Strix Z370-H Gaming   | [link](http://ihackline.com/2019/05/21/asus-rog-strix-z370-h-gaming/) |
 | Asus Strix Z370-I Gaming   | [link](http://ihackline.com/2019/05/21/asus-rog-strix-z370-i-gaming/) |
