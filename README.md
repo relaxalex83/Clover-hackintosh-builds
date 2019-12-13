@@ -77,37 +77,37 @@
 | Asus ROG STRIX Z370-F GAMING   | [link](http://ihackline.com) |
 | Asus ROG STRIX Z370-G GAMING   | [link](http://ihackline.com/2019/05/21/asus-rog-strix-z370-g-gaming/) |
 | Asus PRIME Z370-A II   | [link](http://ihackline.com/2019/05/21/asus-prime-z370-a-ii/) |
-| Asus PRIME Z370-P II   | [link](http://ihackline.com) |
+| Asus PRIME Z370-P II   | [link](https://ihackline.com/2019/12/03/asus-prime-z370-p-ii-hackintosh-build-guide/) |
 | Asus TUF Z370-PRO GAMING   | [link](http://ihackline.com/2019/05/21/asus-tuf-z370-pro-gaming/) |
 | Asus TUF Z370-PLUS GAMING   | [link](http://ihackline.com/2019/05/21/asus-tuf-z370-plus-gaming/) |
-| Asus ROG MAXIMUS X APEX   | [link](http://ihackline.com) |
-| Asus ROG MAXIMUS X CODE   | [link](http://ihackline.com) |
+| Asus ROG MAXIMUS X APEX   | [link](https://ihackline.com/2019/12/03/asus-rog-maximus-x-apex/) |
+| Asus ROG MAXIMUS X CODE   | [link](https://ihackline.com/2019/12/03/asus-rog-maximus-x-code-hackintosh-build-guide/) |
 | Asus PRIME Z370M-PLUS II   | [link](http://ihackline.com/2019/05/21/asus-prime-z370m-plus-ii/) |
-| Asus ROG MAXIMUS X FORMULA   | [link](http://ihackline.com) |
-| Asus PRIME H370-A   | [link](http://ihackline.com) |
-| Asus PRIME H370-PLUS   | [link](http://ihackline.com) |
-| Asus TUF H370-PRO GAMING   | [link](http://ihackline.com) |
-| Asus ROG STRIX H370-I GAMING   | [link](http://ihackline.com) |
-| Asus ROG STRIX H370-F GAMING   | [link](http://ihackline.com) |
-| Asus PRIME H370M-PLUS   | [link](http://ihackline.com) |
-| Asus TUF B360-PRO GAMING   | [link](http://ihackline.com) |
-| Asus ROG STRIX B360-G GAMING   | [link](http://ihackline.com) |
-| Asus ROG STRIX B360-H GAMING   | [link](http://ihackline.com) |
-| Asus ROG STRIX B360-I GAMING   | [link](http://ihackline.com) |
-| Asus ROG STRIX B360-F GAMING   | [link](http://ihackline.com) |
-| Asus PRIME B360-PLUS   | [link](http://ihackline.com) |
-| Asus TUF B360-PLUS GAMING   | [link](http://ihackline.com) |
-| Asus PRIME B360M-K   | [link](http://ihackline.com) |
-| Asus TUF B360M-E GAMING   | [link](http://ihackline.com) |
-| Asus TUF B360M-PLUS GAMING   | [link](http://ihackline.com) |
-| Asus PRIME B360M-A   | [link](http://ihackline.com) |
-| Asus PRIME H310-PLUS   | [link](http://ihackline.com) |
-| Asus TUF H310-PLUS GAMING   | [link](http://ihackline.com) |
-| Asus PRIME H310M-K   | [link](http://ihackline.com) |
-| Asus PRIME H310M-D   | [link](http://ihackline.com) |
-| Asus PRIME H310M-A   | [link](http://ihackline.com) |
-| Asus TUF H310M-PLUS GAMING   | [link](http://ihackline.com) |
-| Asus PRIME H310M-E   | [link](http://ihackline.com) |
+| Asus ROG MAXIMUS X FORMULA   | [link](https://ihackline.com/2019/12/03/asus-rog-maximus-x-formula/) |
+| Asus PRIME H370-A   | [link](https://ihackline.com/2019/12/03/asus-prime-h370-a-hackintosh-build-guide/) |
+| Asus PRIME H370-PLUS   | [link](https://ihackline.com/2019/12/03/asus-prime-h370-plus-hackintosh-build-guide/) |
+| Asus TUF H370-PRO GAMING   | [link](https://ihackline.com/2019/12/03/asus-tuf-h370-pro-gaming-hackintosh-build-guide/) |
+| Asus ROG STRIX H370-I GAMING   | [link](https://ihackline.com/2019/12/03/asus-rog-strix-h370-i-gaming-hackintosh-build-guide/) |
+| Asus ROG STRIX H370-F GAMING   | [link](https://ihackline.com/2019/12/03/asus-rog-strix-h370-f-gaming-hackintosh-build-guide/) |
+| Asus PRIME H370M-PLUS   | [link](https://ihackline.com/2019/12/03/asus-prime-h370m-plus-hackintosh-build-guide/) |
+| Asus TUF B360-PRO GAMING   | [link](https://ihackline.com/2019/12/03/asus-tuf-b360-pro-gaming-hackintosh-build-guide/) |
+| Asus ROG STRIX B360-G GAMING   | [link](https://ihackline.com/2019/12/03/asus-rog-strix-b360-g-gaming-hackintosh-build-guide/) |
+| Asus ROG STRIX B360-H GAMING   | [link](https://ihackline.com/2019/12/03/asus-rog-strix-b360-h-gaming-hackintosh-build-guide/) |
+| Asus ROG STRIX B360-I GAMING   | [link](https://ihackline.com/2019/12/03/asus-rog-strix-b360-i-gaming-hackintosh-build-guide/) |
+| Asus ROG STRIX B360-F GAMING   | [link](https://ihackline.com/2019/12/03/asus-rog-strix-b360-f-gaming-hackintosh-build-guide/) |
+| Asus PRIME B360-PLUS   | [link](https://ihackline.com/2019/12/03/asus-prime-b360-plus-hackintosh-build-guide/) |
+| Asus TUF B360-PLUS GAMING   | [link](https://ihackline.com/2019/12/03/asus-tuf-b360-plus-gaming-hackintosh-build-guide/) |
+| Asus PRIME B360M-K   | [link](https://ihackline.com/2019/12/03/asus-prime-b360m-k-hackintosh-build-guide/) |
+| Asus TUF B360M-E GAMING   | [link](https://ihackline.com/2019/12/03/asus-tuf-b360m-e-gaming-hackintosh-build-guide/) |
+| Asus TUF B360M-PLUS GAMING   | [link](https://ihackline.com/2019/12/03/asus-tuf-b360m-plus-gaming-hackintosh-build-guide/) |
+| Asus PRIME B360M-A   | [link](https://ihackline.com/2019/12/03/asus-prime-b360m-a-hackintosh-build-guide/) |
+| Asus PRIME H310-PLUS   | [link](https://ihackline.com/2019/12/03/asus-prime-h310-plus-hackintosh-build-guide/) |
+| Asus TUF H310-PLUS GAMING   | [link](https://ihackline.com/2019/12/03/asus-tuf-h310-plus-gaming-hackintosh-build-guide/) |
+| Asus PRIME H310M-K   | [link](https://ihackline.com/2019/12/03/asus-prime-h310m-k-hackintosh-build-guide/) |
+| Asus PRIME H310M-D   | [link](https://ihackline.com/2019/12/03/asus-prime-h310m-d-hackintosh-build-guide/) |
+| Asus PRIME H310M-A   | [link](https://ihackline.com/2019/12/03/asus-prime-h310m-a-hackintosh-build-guide/) |
+| Asus TUF H310M-PLUS GAMING   | [link](https://ihackline.com/2019/12/03/asus-tuf-h310m-plus-gaming-hackintosh-build-guide/) |
+| Asus PRIME H310M-E   | [link](https://ihackline.com/2019/12/03/asus-prime-h310m-e-hackintosh-build-guide/) |
 | Gigabyte Z390 AORUS MASTER   | [link](http://ihackline.com/2019/05/29/ga-z390-aorus-master-hackintosh-build-guide/) |
 | Gigabyte Z390 UD   | [link](http://ihackline.com) |
 | Gigabyte Z390 AORUS ELITE   | [link](http://ihackline.com/2019/05/29/ga-z390-aorus-elite-cf-hackintosh-build-guide/) |
