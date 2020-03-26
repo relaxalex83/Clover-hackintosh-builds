@@ -2,6 +2,21 @@
 
 ### Desktop
 
+#### Skylake-X
+| Model Name              | Tutorial                                                     |
+| ----------------------- | ------------------------------------------------------------ |
+| Asus Prime X299-A   | [link](https://ihackline.com/2020/03/11/asus-x299-hackintosh-build-guide/) |
+| Asus Prime X299 Deluxe   | [link](https://ihackline.com/2020/03/11/asus-x299-hackintosh-build-guide/) |
+| Asus TUF X299 MARK 2   | [link](https://ihackline.com/2020/03/11/asus-x299-hackintosh-build-guide/) |
+| Asus PRIME X299-DELUXE II   | [link](https://ihackline.com/2020/03/11/asus-x299-hackintosh-build-guide/) |
+| Asus ROG Rampage VI Extreme   | [link](https://ihackline.com/2020/03/11/asus-x299-hackintosh-build-guide/) |
+| Asus WS X299 PRO  | [link](https://ihackline.com/2020/03/11/asus-x299-hackintosh-build-guide/) |
+| Asus WS X299 SAGE   | [link](https://ihackline.com/2020/03/11/asus-x299-hackintosh-build-guide/) |
+| Asus WS X299 PRO/SE   | [link](https://ihackline.com/2020/03/11/asus-x299-hackintosh-build-guide/) |
+| Asus TUF X299 MARK   | [link](https://ihackline.com/2020/03/11/asus-x299-hackintosh-build-guide/) |
+| Asus ROG STRIX X299-E GAMING   | [link](https://ihackline.com/2020/03/11/asus-x299-hackintosh-build-guide/) |
+| Asus ROG RAMPAGE VI APEX   | [link](https://ihackline.com/2020/03/11/asus-x299-hackintosh-build-guide/) |
+
 #### Coffee Lake
 
 | Model Name              | Tutorial                                                     |
